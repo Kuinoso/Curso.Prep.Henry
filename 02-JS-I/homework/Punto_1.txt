@@ -1,0 +1,8 @@
+﻿Homework 02_js1
+
+1.
+-Variables: Te permiten guardar valores para acceder de forma rapida y sencilla a estos valores.
+-Strings: Son cadenas de simbolos, pueden ser letras, numeros o demas simbolos que se usan para escribir.
+-Funciones: Te permiten realizar procesos y operaciones con variables de forma que se haorra tiempo, espacio y es mas eficaz, en la funciones se puede usar argumentos que te permiten ser especifico en cuento a lo que quieres y llevar varios valores. Tambien puedes usar return para poder ver resultados que ocurren dentro de la función.
+-Declaraciones: En las funciones se pueden hacer operaciones que sean condicionadas a ciertas reglas, para asi ser mas especificos y precisos y poder obtener resultados particulares.
+-Valores booleanos: Son valores que tras una operación o instruccion te devuleven si lo dictado previamente es verdadero o falso de acuerdo a los parametros establecidos. 
