@@ -1,0 +1,2 @@
+- For: Te permite realizar acciones que se repitan varias veces de forma rápida y concisa, todo segun las condiciones que tu pongas.
+- &&, ||, !: Son herramientas que te permiten evaluar si varias cosas son verdaderas o falsas, dependiendo de lo que preguntes y sus elementos.
