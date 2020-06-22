@@ -1,0 +1,2 @@
+- Arrays: Te permiten agrupar varias cosas diferentes como si fueran una lista, con la que despues puedes asignar valores a otras listas, agregar elementos, borrarlos
+          o quitar elementos.
