@@ -1,0 +1,8 @@
+- Objetos: te permiten guardar varia información sobre una misma cosa, a la que luego
+  puedes acceder de froma rapida y eficiente.
+- Propiedades: son los elementos de los objetos, se componen de una clave y un valor.
+- Métodos: son operaciones que se dan dentro de los objetos.
+- Bucle for ... in: es una operación que te permite realizar procesos de forma repetitiva
+  dentro del objeto.
+- Notación de puntos vs notación de corchetes: Son dos formas diferentes de llamar una Propiedades
+  o de realizar procesos de los objetos, una es mas directa que la otra.
