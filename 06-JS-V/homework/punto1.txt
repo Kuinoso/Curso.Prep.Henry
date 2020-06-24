@@ -1,0 +1,4 @@
+- Prototype: Te permite darle valores a algo de sus antecesores o 'padres', asi
+  si no tienes un valor directamente, lo puedes obtener de lo que esta antes que el.
+- Constructors: Te permite agrupar objetos que comparten mismos valores, y trabajar
+  de forma más eficiente estos grupos.
