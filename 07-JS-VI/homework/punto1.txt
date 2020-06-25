@@ -1,0 +1,3 @@
+- Callback: permite usar funciones dentro de otras funciones, lo que te da la
+            posibilidad de crear funciones mas complejas y realizar operaciones
+            de forma mas sencilla.
