@@ -1,0 +1,24 @@
+<style>
+            h1 {
+                color: darkolivegreen;
+            }
+            img {
+                width: 400px;
+            }
+            #thirdDiv {
+                height: 800 px;
+                width: 500px;
+                background-color: bisque;
+                padding: 50px;
+                border-color:red;
+                border-width: 10px;
+                border-style: solid;
+            }
+            #spanId {
+                font-size: 18px;
+                margin: 50px;
+            }
+            
+            
+
+</style>
